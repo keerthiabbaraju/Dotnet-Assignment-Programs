@@ -1,0 +1,6 @@
+C:\Users\svenigalla\Source\Repos\BothNumberEvenOdd\BothNumberEvenOdd\bin\Debug\BothNumberEvenOdd.exe.config
+C:\Users\svenigalla\Source\Repos\BothNumberEvenOdd\BothNumberEvenOdd\bin\Debug\BothNumberEvenOdd.exe
+C:\Users\svenigalla\Source\Repos\BothNumberEvenOdd\BothNumberEvenOdd\bin\Debug\BothNumberEvenOdd.pdb
+C:\Users\svenigalla\Source\Repos\BothNumberEvenOdd\BothNumberEvenOdd\obj\Debug\BothNumberEvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\svenigalla\Source\Repos\BothNumberEvenOdd\BothNumberEvenOdd\obj\Debug\BothNumberEvenOdd.exe
+C:\Users\svenigalla\Source\Repos\BothNumberEvenOdd\BothNumberEvenOdd\obj\Debug\BothNumberEvenOdd.pdb

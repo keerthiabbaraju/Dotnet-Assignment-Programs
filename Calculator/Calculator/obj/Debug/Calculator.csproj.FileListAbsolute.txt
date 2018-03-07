@@ -1,0 +1,12 @@
+C:\Users\svenigalla\Source\Repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\svenigalla\Source\Repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\svenigalla\Source\Repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\svenigalla\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\svenigalla\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\svenigalla\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\keerthia\source\Assignment 2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\keerthia\source\Assignment 2\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\keerthia\source\Assignment 2\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\keerthia\source\Assignment 2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\keerthia\source\Assignment 2\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\keerthia\source\Assignment 2\Calculator\Calculator\obj\Debug\Calculator.pdb

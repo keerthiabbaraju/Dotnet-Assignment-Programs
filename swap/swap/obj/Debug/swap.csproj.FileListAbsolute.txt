@@ -1,0 +1,7 @@
+C:\Users\keerthia\source\repos\swap\swap\bin\Debug\swap.exe.config
+C:\Users\keerthia\source\repos\swap\swap\bin\Debug\swap.exe
+C:\Users\keerthia\source\repos\swap\swap\bin\Debug\swap.pdb
+C:\Users\keerthia\source\repos\swap\swap\obj\Debug\swap.csprojResolveAssemblyReference.cache
+C:\Users\keerthia\source\repos\swap\swap\obj\Debug\swap.csproj.CoreCompileInputs.cache
+C:\Users\keerthia\source\repos\swap\swap\obj\Debug\swap.exe
+C:\Users\keerthia\source\repos\swap\swap\obj\Debug\swap.pdb

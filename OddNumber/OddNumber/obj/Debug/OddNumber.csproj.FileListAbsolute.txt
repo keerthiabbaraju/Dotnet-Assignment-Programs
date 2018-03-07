@@ -1,0 +1,7 @@
+C:\Users\keerthia\source\repos\OddNumber\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\keerthia\source\repos\OddNumber\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\keerthia\source\repos\OddNumber\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\keerthia\source\repos\OddNumber\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+C:\Users\keerthia\source\repos\OddNumber\OddNumber\obj\Debug\OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\keerthia\source\repos\OddNumber\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\keerthia\source\repos\OddNumber\OddNumber\obj\Debug\OddNumber.pdb

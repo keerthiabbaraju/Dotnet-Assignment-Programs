@@ -1,0 +1,7 @@
+c:\users\keerthia\source\repos\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
+c:\users\keerthia\source\repos\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+c:\users\keerthia\source\repos\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+c:\users\keerthia\source\repos\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+c:\users\keerthia\source\repos\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+c:\users\keerthia\source\repos\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+c:\users\keerthia\source\repos\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

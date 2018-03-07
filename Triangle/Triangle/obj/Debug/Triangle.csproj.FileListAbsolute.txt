@@ -1,0 +1,13 @@
+C:\Users\svenigalla\Source\Repos\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\svenigalla\Source\Repos\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\svenigalla\Source\Repos\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\svenigalla\Source\Repos\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\svenigalla\Source\Repos\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\svenigalla\Source\Repos\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\keerthia\source\Assignment 2\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\keerthia\source\Assignment 2\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\keerthia\source\Assignment 2\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\keerthia\source\Assignment 2\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\keerthia\source\Assignment 2\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\keerthia\source\Assignment 2\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\keerthia\source\Assignment 2\Triangle\Triangle\obj\Debug\Triangle.pdb

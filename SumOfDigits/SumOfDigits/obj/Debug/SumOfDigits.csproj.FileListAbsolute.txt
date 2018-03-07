@@ -1,0 +1,14 @@
+C:\Personal\Raj Inno\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Personal\Raj Inno\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Personal\Raj Inno\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Personal\Raj Inno\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csprojResolveAssemblyReference.cache
+C:\Personal\Raj Inno\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Personal\Raj Inno\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Personal\Raj Inno\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.pdb
+C:\Users\keerthia\source\repos\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\keerthia\source\repos\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\keerthia\source\repos\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\keerthia\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\keerthia\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\keerthia\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\keerthia\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.pdb

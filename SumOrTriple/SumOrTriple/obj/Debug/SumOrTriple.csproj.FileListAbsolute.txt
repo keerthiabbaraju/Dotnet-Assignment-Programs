@@ -1,0 +1,7 @@
+C:\Users\keerthia\source\repos\SumOrTriple\SumOrTriple\bin\Debug\SumOrTriple.exe.config
+C:\Users\keerthia\source\repos\SumOrTriple\SumOrTriple\bin\Debug\SumOrTriple.exe
+C:\Users\keerthia\source\repos\SumOrTriple\SumOrTriple\bin\Debug\SumOrTriple.pdb
+C:\Users\keerthia\source\repos\SumOrTriple\SumOrTriple\obj\Debug\SumOrTriple.csprojResolveAssemblyReference.cache
+C:\Users\keerthia\source\repos\SumOrTriple\SumOrTriple\obj\Debug\SumOrTriple.csproj.CoreCompileInputs.cache
+C:\Users\keerthia\source\repos\SumOrTriple\SumOrTriple\obj\Debug\SumOrTriple.exe
+C:\Users\keerthia\source\repos\SumOrTriple\SumOrTriple\obj\Debug\SumOrTriple.pdb

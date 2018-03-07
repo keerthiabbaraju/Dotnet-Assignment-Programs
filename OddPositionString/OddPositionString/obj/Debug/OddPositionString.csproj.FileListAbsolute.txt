@@ -1,0 +1,13 @@
+C:\Personal\Raj Inno\OddPositionString\OddPositionString\bin\Debug\OddPositionString.exe.config
+C:\Personal\Raj Inno\OddPositionString\OddPositionString\bin\Debug\OddPositionString.exe
+C:\Personal\Raj Inno\OddPositionString\OddPositionString\bin\Debug\OddPositionString.pdb
+C:\Personal\Raj Inno\OddPositionString\OddPositionString\obj\Debug\OddPositionString.csproj.CoreCompileInputs.cache
+C:\Personal\Raj Inno\OddPositionString\OddPositionString\obj\Debug\OddPositionString.exe
+C:\Personal\Raj Inno\OddPositionString\OddPositionString\obj\Debug\OddPositionString.pdb
+C:\Users\keerthia\source\repos\OddPositionString\OddPositionString\bin\Debug\OddPositionString.exe.config
+C:\Users\keerthia\source\repos\OddPositionString\OddPositionString\bin\Debug\OddPositionString.exe
+C:\Users\keerthia\source\repos\OddPositionString\OddPositionString\bin\Debug\OddPositionString.pdb
+C:\Users\keerthia\source\repos\OddPositionString\OddPositionString\obj\Debug\OddPositionString.csprojResolveAssemblyReference.cache
+C:\Users\keerthia\source\repos\OddPositionString\OddPositionString\obj\Debug\OddPositionString.csproj.CoreCompileInputs.cache
+C:\Users\keerthia\source\repos\OddPositionString\OddPositionString\obj\Debug\OddPositionString.exe
+C:\Users\keerthia\source\repos\OddPositionString\OddPositionString\obj\Debug\OddPositionString.pdb
